@@ -1,4 +1,4 @@
-package com.edgarhu.hihocoder.competition.camp.B;
+package edgarhu.hihocoder.competition.camp.B;
 
 import java.util.ArrayList;
 import java.util.List;

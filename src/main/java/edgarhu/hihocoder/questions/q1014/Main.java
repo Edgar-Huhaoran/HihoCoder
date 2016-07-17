@@ -1,4 +1,4 @@
-package com.edgarhu.hihocoder.questions.q1014;
+package edgarhu.hihocoder.questions.q1014;
 
 import java.util.Scanner;
 

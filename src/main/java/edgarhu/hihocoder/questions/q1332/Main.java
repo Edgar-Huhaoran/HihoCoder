@@ -1,4 +1,4 @@
-package com.edgarhu.hihocoder.questions.q1332;
+package edgarhu.hihocoder.questions.q1332;
 
 public class Main {
 

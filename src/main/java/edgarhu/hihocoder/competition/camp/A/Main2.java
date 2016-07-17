@@ -1,4 +1,4 @@
-package com.edgarhu.hihocoder.competition.camp.A;
+package edgarhu.hihocoder.competition.camp.A;
 
 import java.util.*;
 
