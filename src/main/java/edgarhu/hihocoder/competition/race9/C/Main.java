@@ -1,4 +1,4 @@
-package edgarhu.hihocoder.competition.race9.B;
+package edgarhu.hihocoder.competition.race9.C;
 
 import java.util.Scanner;
 
