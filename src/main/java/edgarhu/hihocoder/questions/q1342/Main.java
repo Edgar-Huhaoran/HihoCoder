@@ -1,4 +1,4 @@
-package edgarhu.hihocoder.competition.camp.B;
+package edgarhu.hihocoder.questions.q1342;
 
 import java.util.ArrayList;
 import java.util.List;
