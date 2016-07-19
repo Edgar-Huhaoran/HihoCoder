@@ -1,4 +1,4 @@
-package edgarhu.hihocoder.competition.race9.B;
+package competition.race9.B;
 
 import java.util.Arrays;
 import java.util.HashMap;

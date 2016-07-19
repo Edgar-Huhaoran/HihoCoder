@@ -1,4 +1,4 @@
-package edgarhu.hihocoder.questions.q1341;
+package questions.q1341;
 
 
 import java.util.*;

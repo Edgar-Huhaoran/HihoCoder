@@ -1,4 +1,4 @@
-package edgarhu.hihocoder.competition.race9.A;
+package competition.race9.A;
 
 import java.util.LinkedList;
 import java.util.List;
